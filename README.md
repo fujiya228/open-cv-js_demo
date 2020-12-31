@@ -1,6 +1,9 @@
 # open-cv-js_demo
 
 This is OpenCV.js demo repo.
+
+[demo page](https://fujiya228.github.io/open-cv-js_demo/demo/)
+
 [Click here](https://fujiya228.com/opencv-js) for an explanatory article.
 
 ## Resources
